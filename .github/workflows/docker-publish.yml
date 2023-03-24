@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: kaiwinter/wildfly27-mariadb:latest
+          tags: ghcr.io/kaiwinter/wildfly27-mariadb:latest
